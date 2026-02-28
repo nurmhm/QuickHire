@@ -1,7 +1,11 @@
-export default function HeroSection() {
+
+
+const HeroSection = () => {
   return (
-    <section>
-      {/* Hero Section content */}
-    </section>
-  );
+    <div className="bg-[#F8F8FD]">
+      
+    </div>
+  )
 }
+
+export default HeroSection
